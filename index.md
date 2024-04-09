@@ -1,6 +1,5 @@
-```html
-
-<!DOCTYPE html>
+ 
+ 
 <html>
 <head>
     <title>LaTeX Equation Display</title>
@@ -25,4 +24,4 @@
 
 </body>
 </html>
-```
+ 
