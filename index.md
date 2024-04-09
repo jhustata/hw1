@@ -1,1 +1,3 @@
-`Here's an inline equation: $E=mc^2$`
+```latex
+Here's an inline equation: $E=mc^2$
+```
